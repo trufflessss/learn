@@ -15,6 +15,10 @@
         <relativePath/>
     </parent>
 
+    <modules>
+        <module>learn-common</module>
+    </modules>
+
     <!-- 统一管理jar包版本 -->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
